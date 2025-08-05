@@ -55,12 +55,6 @@ const nikhil = {
 };
 ```
 
----
-
----
-
----
-
 ## 🌐 **Let's Connect & Build Something Amazing**
 
 <div align="center">
