@@ -1,4 +1,4 @@
-# Hey there! I'm Nikhil Mahesh 👋
+# Hey, it's Nikhil 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF4&center=true&vCenter=true&width=435&lines=16-year-old+Entrepreneur;AI+%26+Hardware+Innovator;Full-Stack+Developer;3x+NIETOC;Software+x+Hardware" alt="Typing SVG" />
