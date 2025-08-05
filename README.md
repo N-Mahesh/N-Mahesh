@@ -1,7 +1,7 @@
 # Hey there! I'm Nikhil Mahesh 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF4&center=true&vCenter=true&width=435&lines=16-year-old+Entrepreneur;AI+%26+Hardware+Innovator;Full-Stack+Developer;3x+National+Speech+Qualifier" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF4&center=true&vCenter=true&width=435&lines=16-year-old+Entrepreneur;AI+%26+Hardware+Innovator;Full-Stack+Developer;3x+NIETOC" alt="Typing SVG" />
 </div>
 
 ---
