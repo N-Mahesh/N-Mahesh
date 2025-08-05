@@ -30,7 +30,7 @@ From **Dallas to Seattle**, I've been building the future since age 10. I'm all 
 
 ## 💼 **Professional Experience**
 
-**Software Engineering Intern** @ **VoiceGain.AI** (Dallas, TX)  
+**Software Engineer Intern** @ **VoiceGain.AI** (Dallas, TX)  
 *Working alongside experienced engineers on enterprise-level voice AI solutions*
 
 **Software Engineer Intern** @ **ONDC/Bizom** (Bangalore, India)  
