@@ -22,7 +22,7 @@ From **Dallas to Seattle**, I've been building the future since age 10. I'm all 
 - **TEDx Youth Event** — Leading organization at Eastside Prep on theme "Emergence"
 
 ### 💡 **Featured Projects**
-- **Lingle™** — Writing-first language learning platform with fine-tuned AI models
+- [**Lingle™**](https://getlingle.com) — Writing-first language learning platform with fine-tuned AI models
 - **ExtemPT** — Generative AI platform for competitive speech research with agentic tooling
 - **EPCarpool** — Sustainability platform reducing single-car travel (🏆 1st Place Hackathon Winner 2023)
 
