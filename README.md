@@ -23,8 +23,8 @@ From **Dallas to Seattle**, I've been building the future since age 10. I'm all 
 
 ### 💡 **Featured Projects**
 - [**Lingle™**](https://getlingle.com) — Writing-first language learning platform with fine-tuned AI models
-- [**ExtemPT**](https://epcarpool.com/) — Generative AI platform for competitive speech research with agentic tooling
-- **EPCarpool** — Sustainability platform reducing single-car travel (🏆 1st Place Hackathon Winner 2023)
+- **ExtemPT** — Generative AI platform for competitive speech research with agentic tooling
+- [**EPCarpool**](https://epcarpool.com/) — Sustainability platform reducing single-car travel (🏆 1st Place Hackathon Winner 2023)
 
 ---
 
