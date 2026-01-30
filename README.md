@@ -17,7 +17,7 @@ From **Dallas to Seattle**, I've been building the future since age 9. I'm all i
 ## 🌟 **What I'm Building**
 
 ### 🔥 **Current Focus**
-- **HydraSmart™** — Co-founder & CEO leading maternal wellness startup with provisional patent filed. Smart hydration tracking with AI-powered lifestyle correlation. $50k seed investment lined up.
+- **HydraSmart™** — Co-founder & CEO leading maternal wellness startup with provisional patent filed. Smart hydration tracking with AI-powered lifestyle correlation.
 - **Computer Vision Research** — Developing novel approaches for autism spectrum support through micro-expression detection
 - **TEDx Youth Event** — Leading organization at Eastside Prep on theme "Emergence"
 
