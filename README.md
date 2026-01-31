@@ -8,7 +8,7 @@
 
 ## 🚀 **Where Innovation Meets Impact**
 
-From **Dallas to Seattle**, I've been building the future since age 9. I'm all in about about creating **AI-powered solutions** that solve real-world problems while maintaining academic excellence and competitive speech achievements.
+From **Dallas to Seattle**, I've been building the future since 9. I'm all in about about creating **AI-powered solutions** that solve real-world problems while maintaining academic excellence and competitive speech achievements.
 
 > *"Innovation doesn't come from just mastery, it comes from being the first to combine two ideas together in a way that resonates with the problem."* — My philosophy on building meaningful technology
 
