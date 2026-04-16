@@ -23,7 +23,7 @@ From **Dallas to Seattle**, I've been building the future since 9. I'm all in ab
 
 ### 💡 **Featured Projects**
 - [**Lingle™**](https://getlingle.com) — Writing-first language learning platform with fine-tuned AI models
-- [**EPCarpool**](https://epcarpool.com/) — Sustainability platform reducing single-car travel (🏆 1st Place Hackathon Winner 2023)
+- [**EPCarpool**](https://epcarpool.com/) — Sustainability platform reducing single-car travel (🏆 1st Place Hackathon Winner)
 
 ---
 
