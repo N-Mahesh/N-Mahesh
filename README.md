@@ -76,8 +76,6 @@ const nikhil = {
 
 ---
 
-[![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=N-Mahesh)](https://github.com/anuraghazra/github-readme-stats)
-
 <div align="center">
   <i>Ready to innovate? 🚀</i>
 </div>
